@@ -1,38 +1,25 @@
-# ToDoList
+# 📝 To-Do List em Vue.js
 
-This template should help get you started developing with Vue 3 in Vite.
+Este projeto é uma **To-Do List** desenvolvida com **Vue.js**, com o objetivo de praticar conceitos fundamentais do framework e criar uma aplicação simples, funcional e organizada para o gerenciamento de tarefas do dia a dia.
 
-## Recommended IDE Setup
+## 🚀 Funcionalidades
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+- Adicionar tarefas com **nome** e **data de prazo** para finalização  
+- Registro automático da **data de criação** da tarefa no momento em que ela é salva  
+- **Editar** o nome da tarefa e o **prazo de entrega**  
+- Marcar tarefas como **concluídas**  
+- Visualizar tarefas **pendentes**, **finalizadas** e **ambas**
+- Exibição de **resumo** com total de tarefas (concluídas, pendentes e total)  
+- **Formatação de datas** no padrão brasileiro  
+- Interface simples, centralizada e intuitiva  
 
-## Recommended Browser Setup
+## 🛠️ Tecnologias Utilizadas
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+- **Vue.js**  
+- **JavaScript**  
+- **HTML**  
+- **CSS**  
 
-## Customize configuration
+## 📚 Objetivo do Projeto
 
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Projeto desenvolvido com fins **educacionais**, com foco no aprendizado de Vue.js, incluindo conceitos como **componentes**, **reatividade**, **diretivas** (`v-if`, `v-for`, `v-bind`, `@click`) e **manipulação de listas**.
